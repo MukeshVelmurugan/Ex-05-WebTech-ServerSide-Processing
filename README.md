@@ -70,6 +70,8 @@ padding-top: 20px;
 <div class="edge">
 <div class="box">
 <h1>Area of a Rectangle</h1>
+<h3 align="center">MUKESH V</h3>
+<h3 align="center">22008323</h3>
 <form method="POST">
 {% csrf_token %}
 <div class="formelt">
@@ -129,8 +131,8 @@ urlpatterns = [
 ]
 ```
 # OUTPUT:
-![model](./op.png)
+![model](./op1.png)
 
 # RESULT:
 
-The program is executed succesfully
+The program is executed succesfully.
